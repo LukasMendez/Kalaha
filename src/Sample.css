@@ -1,0 +1,22 @@
+
+
+#clickme{
+    -fx-font-size: 30px ;
+    -fx-background-color: rgba(255, 255, 255, .80);
+    -fx-text-fill: blue;
+    -fx-padding: 6 6 6 6;
+
+}
+
+
+.button{
+    -fx-background-color: brown;
+    -fx-text-fill: white;
+    -fx-background-radius: 40;
+
+    -fx-border-radius: 25px;
+    -fx-padding: 20px;
+
+
+
+}
